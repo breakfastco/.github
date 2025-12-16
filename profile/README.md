@@ -1,12 +1,13 @@
 # Breakfast Company
 
-A web development consultancy founded by [@csalzano](https://github.com/csalzano). Improving websites near Pittsburgh, Pennsylvania.
+A web development consultancy founded by [@csalzano](https://github.com/csalzano). Improving websites near Pittsburgh, Pennsylvania for clients around the earth.
 
-## Capabilities
+## Products & Services
 
-Online business automation & process software. Development & consulting for websites, and especially those built on WordPress or Shopify.
+### Websites & website development
 
-## Links
+Online business automation & process software. Development & consulting for websites, and especially those built on WordPress, Shopify, or CS-Cart.
 
-- [breakfastco.xyz](https://breakfastco.xyz)
-- [entriestogooglesheet.com](https://entriestogooglesheet.com)
+### Coral Bridge
+
+Automates the creation of Contacts and Deals in HubSpot CRM. [https://breakfastco.xyz/coralbridge](https://breakfastco.xyz/coralbridge)
